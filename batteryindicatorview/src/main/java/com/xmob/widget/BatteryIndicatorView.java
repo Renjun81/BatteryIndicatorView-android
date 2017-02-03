@@ -1,4 +1,4 @@
-package com.xmob.widget.batteryindicator;
+package com.xmob.widget;
 
 import android.content.Context;
 import android.graphics.Canvas;
